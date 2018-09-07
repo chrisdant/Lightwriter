@@ -1,0 +1,36 @@
+/* Global styles should primarily be theming information, such as color 
+ * palette. Visual components are responsible for their own styling
+ * otherwise.
+ */
+
+.color-accent {
+  background-color: indigo;
+}
+
+.color-accentDark1 {
+  background-color: #3b0066;
+}
+
+.color-accentDark2 {
+  background-color: #2d004d;
+}
+
+.color-accentDark3 {
+  background-color: #1e0033;
+}
+
+.color-accentLight1 {
+  background-color: #590099;
+}
+
+.color-accentLight2 {
+  background-color: #6800b3;
+}
+
+.color-accentLight3 {
+  background-color: #7700cc;
+}
+
+.color-background {
+  background-color: white;
+}

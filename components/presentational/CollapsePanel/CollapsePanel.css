@@ -1,0 +1,20 @@
+.collapsePanel {
+  display: flex;
+  flex-direction: row;
+}
+
+.container {
+  order: 2;
+}
+
+.toggle {
+
+}
+
+.LeftToggle {
+  order: 1;
+}
+
+.RightToggle {
+  order: 3;
+}
